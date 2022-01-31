@@ -1,5 +1,6 @@
 # OrigamidCourses
- 🐺 Projects made in origamid courses 🐺
+ <h3 aling="center">🐺 Projects made in origamid courses 🐺</h3>
+
 ![Origamid](https://raw.githubusercontent.com/Relirk/Origamid/master/origamid.png)
 
 <details>
