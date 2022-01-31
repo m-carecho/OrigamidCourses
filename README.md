@@ -15,16 +15,14 @@
 
 ![Origamid](https://raw.githubusercontent.com/Relirk/Origamid/master/origamid.png)
 
-<details>
-    <summary>HTML and CSS for Beginners</summary>
-    - [ ] Portfolio Project
-    - [ ] Final project
-</details>
-<details>
-    <summary>CSS Flexbox</summary>
-    - [ ] FlexBlog Project
-</details>
-<details>
-    <summary>CSS Grid Layout</summary>
-    - [ ] Wildbeast Project
-</details>
+
+- [ ] [HTML and CSS for Beginners]()
+    - [ ] [Portfolio Project]()
+    - [ ] [Final project]()
+
+- [ ] CSS Flexbox
+    - [ ] [FlexBlog Project]()
+
+- [ ] CSS Grid Layout
+    - [ ] [Wildbeast Project]()
+
