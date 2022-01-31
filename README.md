@@ -1,13 +1,11 @@
 # OrigamidCourses
  🐺 Projects made in origamid courses 🐺
+<img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 
- # A collapsible section with markdown
 <details>
-  <summary>Click to expand!</summary>
+  <summary>UI Design para Iniciantes</summary>
+    [ ] teste
+  <summary>UI Design para Iniciantes</summary>
   
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+ 
 </details>
