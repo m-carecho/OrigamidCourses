@@ -1,0 +1,14 @@
+img {
+  max-width: 100%;
+}
+
+div {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 1rem;
+}
+
+.galeria {
+  grid-template-columns: repeat(auto-fit, minmax(150px, 3fr));
+}
+

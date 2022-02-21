@@ -1,0 +1,19 @@
+img {
+  max-width: 100%;
+}
+
+div {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+}
+
+h1{
+  grid-column: 1 / -1;
+}
+
+@media (max-width: 600px){
+  div {
+    grid-template-columns: 1fr;
+  }
+}
